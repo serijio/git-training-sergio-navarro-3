@@ -2,9 +2,9 @@ public static public class mujeres {
 
 	public static void main(String[] args) {
 
-	int num1 = 4;
-	int num2 = 5;
-	int num3 = 6;
+	int num1 = 1;
+	int num2 = 2;
+	int num3 = 3;
 
 	String primer = "Gwendoline Christie";
 	String segun = "Cate Blanchett";
