@@ -6,9 +6,9 @@ public static public class mujeres {
 	int num2 = 2;
 	int num3 = 3;
 
-	String primer = "Gwendoline Christie";
-	String segun = "Cate Blanchett";
-	String tercer = "Margot Robbie";
+	String primer = "Kurumi Tokisaki";
+	String segun = "Artoria Pendragon";
+	String tercer = "Rias Gremory";
 
 	System.out.println("El orden de increibles feminas es:\n" + num1 + ": " + primer + "\n"
 				+ num2 + ": " + segun "\n"
